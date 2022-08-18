@@ -1,4 +1,5 @@
 # comandos-docker
+Selecione no canto superior direito desse quadro para visualisar como código ícone <>
 PROMETHEUS///////////////////PROMETHEUS///////////////////
 docker run -d --name prometheus -p 9292:9292 -v /tmp/prometheus/prometheus.yml:/etc/prometheus/prometheus.yml prom/prometheus
 JENKINS//////////////////////JENKINS//////////////////////
